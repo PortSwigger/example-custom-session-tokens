@@ -1,4 +1,4 @@
-var http = require('http');
+const http = require('http');
 
 const PORT = 8000;
 
